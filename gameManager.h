@@ -11,10 +11,6 @@ class gameManager
 		char sym1;
 		char sym2;
 
-		//board index
-		int row;
-		int col;
-
 	public:
 		gameManager();
 		gameManager(player player1, player player2, char symbol1, char symbol2);
